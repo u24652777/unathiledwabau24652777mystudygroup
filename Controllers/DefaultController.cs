@@ -17,7 +17,7 @@ namespace unathiledwabau24652777mystudygroup.Controllers
             people.Add(new Models.myClass { StudentNumber = "u24829839", Name = "Ntsika", Surname = "Mazamisa" , Email= "u24829839@tuks.co.za"});
             people.Add(new Models.myClass { StudentNumber = "u24687406", Name = "Nandipha", Surname = "Makama", Email = "u24687406@tuks.co.za" });
             people.Add(new Models.myClass { StudentNumber = "u24735427", Name = "Lesedi", Surname = "Magondo", Email = "u24735427@tuks.co.za" });
-            people.Add(new Models.myClass { StudentNumber = "u24974553", Name = "Aviwe", Surname = "Mahlukane", Email = "u24974553@tuks.co.za" });
+            people.Add(new Models.myClass { StudentNumber = "u24974553", Name = "Aviwe", Surname = "Petlane", Email = "u24974553@tuks.co.za" });
             return View(people);
         }
     }
